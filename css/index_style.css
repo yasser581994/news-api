@@ -1,0 +1,8 @@
+body
+{
+    font-family: 'segoe ui light';
+}
+#countriesList li
+{
+    cursor: pointer;
+}
